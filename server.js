@@ -7,6 +7,7 @@ const PORT = process.env.PORT || 8080
 const app = express()
 
 app.use(htmlRoutes)
+app.use(apiRoutes)
 
 app.use(express.json())
 app.use(express.urlencoded({extended:true}))
