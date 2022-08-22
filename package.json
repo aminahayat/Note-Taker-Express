@@ -1,7 +1,7 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "For this weeks assignment I want to be able to write and save notes so thatI can organize my thoughts and keep track of tasks that I need to complete.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,5 +20,7 @@
   "bugs": {
     "url": "https://github.com/aminahayat/Note-Taker-Express/issues"
   },
-  "homepage": "https://github.com/aminahayat/Note-Taker-Express#readme"
+  "homepage": "https://github.com/aminahayat/Note-Taker-Express#readme",
+  "devDependencies": {},
+  "keywords": []
 }
