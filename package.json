@@ -1,26 +1,15 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "For this weeks assignment I want to be able to write and save notes so thatI can organize my thoughts and keep track of tasks that I need to complete.",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1",
+    "express": "^4.16.4",
     "uniqid": "^5.4.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aminahayat/Note-Taker-Express.git"
-  },
-  "bugs": {
-    "url": "https://github.com/aminahayat/Note-Taker-Express/issues"
-  },
-  "homepage": "https://github.com/aminahayat/Note-Taker-Express#readme",
-  "devDependencies": {},
-  "keywords": []
+  }
 }
